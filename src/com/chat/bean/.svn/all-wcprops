@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cloud_cms/!svn/ver/6297/chat/src/com/chat/bean
+END
+RegisterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6342/chat/src/com/chat/bean/RegisterInfo.java
+END
+LeaveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6459/chat/src/com/chat/bean/LeaveMessage.java
+END
+LoginInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud_cms/!svn/ver/6297/chat/src/com/chat/bean/LoginInfo.java
+END
+PicInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cloud_cms/!svn/ver/6178/chat/src/com/chat/bean/PicInfo.java
+END
+DiscussGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6185/chat/src/com/chat/bean/DiscussGroup.java
+END
+ChatPic.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cloud_cms/!svn/ver/6218/chat/src/com/chat/bean/ChatPic.java
+END
+ChatInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cloud_cms/!svn/ver/6297/chat/src/com/chat/bean/ChatInfo.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cloud_cms/!svn/ver/6013/chat/src/com/chat/bean/User.java
+END

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.2.jar" sourcepath="D:/CMS/cloud_cms/maven/maven-dependcies/net/java/dev/swing-layout/swing-layout/1.0.2/swing-layout-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="lib/substance-5.2_01.jar" sourcepath="D:/CMS/cloud_cms/maven/maven-dependcies/net/sf/squirrel-sql/thirdparty-non-maven/substance/5.2_01/substance-5.2_01-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

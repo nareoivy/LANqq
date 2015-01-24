@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cloud_cms/!svn/ver/6321/chat/src/com/chat/frame
+END
+RegisterFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/6360/chat/src/com/chat/frame/RegisterFrame.java
+END
+WaittingLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/6348/chat/src/com/chat/frame/WaittingLogin.java
+END
+ServerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6292/chat/src/com/chat/frame/ServerFrame.java
+END
+ClientLoginFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/6399/chat/src/com/chat/frame/ClientLoginFrame.java
+END
+UserListFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/6570/chat/src/com/chat/frame/UserListFrame.java
+END
+ChatGroupFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cloud_cms/!svn/ver/6462/chat/src/com/chat/frame/ChatGroupFrame.java
+END
+SuperFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud_cms/!svn/ver/6350/chat/src/com/chat/frame/SuperFrame.java
+END
+ChatFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/6562/chat/src/com/chat/frame/ChatFrame.java
+END
+LeaveMessageFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cloud_cms/!svn/ver/6458/chat/src/com/chat/frame/LeaveMessageFrame.java
+END
+ConfigChatGroupFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/6428/chat/src/com/chat/frame/ConfigChatGroupFrame.java
+END

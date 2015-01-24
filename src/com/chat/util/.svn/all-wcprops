@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cloud_cms/!svn/ver/6315/chat/src/com/chat/util
+END
+PicsJWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud_cms/!svn/ver/6327/chat/src/com/chat/util/PicsJWindow.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/6358/chat/src/com/chat/util/StringUtil.java
+END
+CoolToolTip.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud_cms/!svn/ver/6178/chat/src/com/chat/util/CoolToolTip.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cloud_cms/!svn/ver/6346/chat/src/com/chat/util/JsonUtil.java
+END
+DataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cloud_cms/!svn/ver/6562/chat/src/com/chat/util/DataUtil.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud_cms/!svn/ver/6567/chat/src/com/chat/util/Constants.java
+END
+GetUserImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cloud_cms/!svn/ver/6149/chat/src/com/chat/util/GetUserImageUtil.java
+END
+ChangeImageLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cloud_cms/!svn/ver/6058/chat/src/com/chat/util/ChangeImageLight.java
+END
+MessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud_cms/!svn/ver/6327/chat/src/com/chat/util/MessageUtil.java
+END
+ToMinimizeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/6002/chat/src/com/chat/util/ToMinimizeUtil.java
+END
+MessageContainerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cloud_cms/!svn/ver/6562/chat/src/com/chat/util/MessageContainerUtil.java
+END
+SocketUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/6263/chat/src/com/chat/util/SocketUtil.java
+END
+ShowMessagePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cloud_cms/!svn/ver/5992/chat/src/com/chat/util/ShowMessagePane.java
+END
+PersistenceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cloud_cms/!svn/ver/6453/chat/src/com/chat/util/PersistenceContext.java
+END
+GetGroupImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/6155/chat/src/com/chat/util/GetGroupImageUtil.java
+END
+PicCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/6327/chat/src/com/chat/util/PicCompression.java
+END
+StyleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud_cms/!svn/ver/6262/chat/src/com/chat/util/StyleUtil.java
+END
+TestClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cloud_cms/!svn/ver/5941/chat/src/com/chat/util/TestClientConnection.java
+END

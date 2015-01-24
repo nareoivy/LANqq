@@ -1,0 +1,55 @@
+10
+
+dir
+6321
+http://redmine.pccw.com/svn/cloud_cms/chat/src/com/chat
+http://redmine.pccw.com/svn/cloud_cms
+
+
+
+2012-06-15T07:45:35.051013Z
+6321
+80273816
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f96fe099-5f42-4a92-8307-f9d88b68ea92
+
+file
+dir
+
+db
+dir
+
+bean
+dir
+
+server
+dir
+
+common
+dir
+
+frame
+dir
+
+util
+dir
+
+ui
+dir
+
+client
+dir
+

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cloud_cms/!svn/ver/6523/chat/src/com/chat/client
+END
+ClientReceiveBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cloud_cms/!svn/ver/6025/chat/src/com/chat/client/ClientReceiveBody.java
+END
+ImagePlayThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/6035/chat/src/com/chat/client/ImagePlayThread.java
+END
+ClientRefreshListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cloud_cms/!svn/ver/6317/chat/src/com/chat/client/ClientRefreshListener.java
+END
+SendVoiceThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/6562/chat/src/com/chat/client/SendVoiceThread.java
+END
+WaittingLoginThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/6458/chat/src/com/chat/client/WaittingLoginThread.java
+END
+ClientReceiveThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/6567/chat/src/com/chat/client/ClientReceiveThread.java
+END
+GroupPlayThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/6440/chat/src/com/chat/client/GroupPlayThread.java
+END
+SendHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6312/chat/src/com/chat/client/SendHander.java
+END
+SendDeleteGroupHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cloud_cms/!svn/ver/6386/chat/src/com/chat/client/SendDeleteGroupHander.java
+END
+SendCreateGroupHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cloud_cms/!svn/ver/6364/chat/src/com/chat/client/SendCreateGroupHander.java
+END
+TestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cloud_cms/!svn/ver/6168/chat/src/com/chat/client/TestClient.java
+END
+SendRegisterHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cloud_cms/!svn/ver/6359/chat/src/com/chat/client/SendRegisterHander.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/6308/chat/src/com/chat/client/Listener.java
+END
+ClientRefreshThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/6454/chat/src/com/chat/client/ClientRefreshThread.java
+END
+ScanUserStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cloud_cms/!svn/ver/6562/chat/src/com/chat/client/ScanUserStatus.java
+END
+ClientSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/5944/chat/src/com/chat/client/ClientSocket.java
+END
+ClientReceiveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cloud_cms/!svn/ver/6295/chat/src/com/chat/client/ClientReceiveListener.java
+END
+SendFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/6127/chat/src/com/chat/client/SendFile.java
+END
+SendRefreshHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cloud_cms/!svn/ver/6337/chat/src/com/chat/client/SendRefreshHander.java
+END
+SendStopVoiceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cloud_cms/!svn/ver/6523/chat/src/com/chat/client/SendStopVoiceMessage.java
+END
+SendUpdateGroupHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cloud_cms/!svn/ver/6370/chat/src/com/chat/client/SendUpdateGroupHander.java
+END
+UserPlayThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cloud_cms/!svn/ver/6148/chat/src/com/chat/client/UserPlayThread.java
+END
+RefreshClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cloud_cms/!svn/ver/6432/chat/src/com/chat/client/RefreshClient.java
+END
+SendLeaveMessageHander.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cloud_cms/!svn/ver/6437/chat/src/com/chat/client/SendLeaveMessageHander.java
+END
+SendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cloud_cms/!svn/ver/6179/chat/src/com/chat/client/SendMessage.java
+END

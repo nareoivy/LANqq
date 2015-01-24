@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cloud_cms/!svn/ver/6412/chat/src/com/even
+END
+ReceiveGroupMessageEven.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cloud_cms/!svn/ver/6061/chat/src/com/even/ReceiveGroupMessageEven.java
+END
+ReceiveFileEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/even/ReceiveFileEvent.java
+END
+ReceiveMessageEven.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cloud_cms/!svn/ver/6169/chat/src/com/even/ReceiveMessageEven.java
+END
+ReceiveRefreshMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/6412/chat/src/com/even/ReceiveRefreshMessageEvent.java
+END

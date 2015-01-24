@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang
+END
+LanguageChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/LanguageChangeListener.java
+END
+message.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/message.properties
+END
+SearchFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/SearchFrame.java
+END
+message_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/message_zh_CN.properties
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/ResourceManager.java
+END
+CommonFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/CommonFrame.java
+END
+message_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/message_en_US.properties
+END
+ResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/lang/ResourceModule.java
+END

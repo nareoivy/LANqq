@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cloud_cms/!svn/ver/6412/chat/src/com/listener
+END
+ReceiveGroupMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cloud_cms/!svn/ver/6059/chat/src/com/listener/ReceiveGroupMessageListener.java
+END
+ReceiveRefreshMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cloud_cms/!svn/ver/6412/chat/src/com/listener/ReceiveRefreshMessageListener.java
+END
+ReceiveMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cloud_cms/!svn/ver/5912/chat/src/com/listener/ReceiveMessageListener.java
+END
